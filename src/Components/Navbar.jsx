@@ -26,7 +26,7 @@ const Navbar = () => {
             Explore Premium
           </p>
           <p className="bg-green-300 text-black text-[15px] px-4 py-1 rounded-2xl md:block cursor-pointer">
-            made By Ani
+            Made By Ani
           </p>
           <p className="bg-black py-1 px-3 rounded-2xl text-[15px] cursor-pointer">Install App</p>
           <p className="bg-purple-500 text-black w-7 h-7 rounded-full flex items-center justify-center">SA</p>
